@@ -1,4 +1,4 @@
-## Olá! Eu sou Nicolas Bueno 👋
+## Hey guys! I'm Nicolas Bueno 👋
 
  <div>
         <a href="https://github.com/Nicolas-Bueno"></a>
