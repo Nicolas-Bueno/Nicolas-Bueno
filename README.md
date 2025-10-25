@@ -16,8 +16,6 @@
 </div>
  
  ##
- 
- ![Snake animation](https://github.com/Nicolas-Bueno/Nicolas-Bueno/blob/output/github-contribution-grid-snake.svg)
- 
+  
 
 
